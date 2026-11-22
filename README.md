@@ -32,6 +32,7 @@
 - [Legal and ethical use](#legal-and-ethical-use)
 - [Contributing](#contributing)
 - [Credits](#credits)
+- [License](#license)
 
 ---
 
@@ -285,3 +286,7 @@ categories:
 - **Curated by:** Sajin Shivdas, [sajinshivdas.online](https://sajinshivdas.online).
 - **Third-party code:** [js-yaml](https://github.com/nodeca/js-yaml) (MIT).
 - **Tool names, logos and trademarks** belong to their respective owners.
+
+## License
+
+Released under the [MIT License](LICENSE) © 2026 Sajin Shivdas. The listed tools are third-party projects: each one is covered by its own licence and terms, not by this repository's licence.
